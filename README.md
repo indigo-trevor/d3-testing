@@ -1,2 +1,2 @@
-# Blank-Template
-Totally stripped template to use as a starting point for future websites
+# D3 Experimentation
+Making some rad visualizations
